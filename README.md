@@ -1,2 +1,2 @@
 # player-game
-Simple application from code academy
+Simple application with Vue js
